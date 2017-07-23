@@ -2,6 +2,7 @@
 
 - Clone the repo
 - Copy `config/db_config.sample.php` as `config/db_config.sample.php`  and update the seetings accordingly.
+- If you have docker, simple run `docker-compose up -d` in the root and view the website at http://localhost:9867/. Look at the notes 
 - Run `chmod +x setup.sh`  to make it executable
 - Run `./setup.sh`
 
@@ -10,5 +11,5 @@
 
 Access the website at http://apicrud.dev or http://localhost:9090
 
-If you use http://localhost:9090, update the `public/index.php` accordingly on `line #17` i.e. 
+If you use the docker URL i.e http://localhost:9867 or http://localhost:9090, update the `public/index.php` accordingly on `line #17` i.e. 
 	`var url = "http://apicrud.dev/";`

@@ -1,0 +1,6 @@
+{
+    "require": {
+        "joshcam/mysqli-database-class": "dev-master",
+        "twbs/bootstrap": "4.0.0-alpha.6"
+    }
+}

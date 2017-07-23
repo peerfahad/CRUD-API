@@ -1,5 +1,5 @@
 <?php
-require 'db_config.php';
+require '../config/db_config.php';
 
 $num_rec_per_page = 5;
 

@@ -1,6 +1,6 @@
 <?php
 
-require 'db_config.php';
+require '../config/db_config.php';
 
   $post = $_POST;
 

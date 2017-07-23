@@ -2,4 +2,5 @@
 bower_components
 vendor
 .idea
+config/db_config.php
 

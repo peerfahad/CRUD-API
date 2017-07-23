@@ -1,7 +1,6 @@
 <?php
 
-require '../config/db_config.php';
-
+require __DIR__ . '/../../config/db_config.php';
 
  $id  = $_POST["id"];
 
@@ -10,5 +9,3 @@ require '../config/db_config.php';
  $result = $mysqli->query($sql);
 
  echo json_encode([$id]);
-
-?>

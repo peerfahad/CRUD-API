@@ -1,6 +1,7 @@
 <?php
 
-require '../config/db_config.php';
+require __DIR__ . '/../../config/db_config.php';
+
   $id  = $_POST["id"];
   $post = $_POST;
 

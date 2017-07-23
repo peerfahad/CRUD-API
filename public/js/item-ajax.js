@@ -7,8 +7,6 @@ var is_ajax_fire = 0;
 
 manageData();
 
-consoe.log("cal raja hai");
-
 /* manage data list */
 function manageData() {
     $.ajax({

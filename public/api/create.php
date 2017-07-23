@@ -1,12 +1,11 @@
 <?php
 
-require '../config/db_config.php';
+require __DIR__ . '/../../config/db_config.php';
 
   $post = $_POST;
 
   $sql = "INSERT INTO student (name,father_name,email,phone) 
-
-VALUES ('".$post['name']."','".$post['father_name']."','".$post['email']."','".$post['phone']."')";
+		  VALUES ('".$post['name']."','".$post['father_name']."','".$post['email']."','".$post['phone']."')";
 
   $result = $mysqli->query($sql);
 
@@ -17,5 +16,3 @@ VALUES ('".$post['name']."','".$post['father_name']."','".$post['email']."','".$
   $data = $result->fetch_assoc();
 
 echo json_encode($data);
-
-?>

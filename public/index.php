@@ -2,10 +2,10 @@
 <html>
 <head>
   <title>PHP Jquery Ajax CRUD Example</title>
-  <link rel="stylesheet" type="text/css" href="./bower_components/bootstrap/dist/css/bootstrap.min.css">
-  <script type="text/javascript" src="./bower_components/jquery/dist/jquery.min.js"></script>
+  <link rel="stylesheet" type="text/css" href="./static/bootstrap/dist/css/bootstrap.min.css">
+  <script type="text/javascript" src="./static/jquery/dist/jquery.min.js"></script>
   <script type="text/javascript"
-          src="./bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
+          src="./static/bootstrap/dist/js/bootstrap.min.js"></script>
   <script type="text/javascript"
           src="https://cdnjs.cloudflare.com/ajax/libs/twbs-pagination/1.3.1/jquery.twbsPagination.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/1000hz-bootstrap-validator/0.11.5/validator.min.js"></script>

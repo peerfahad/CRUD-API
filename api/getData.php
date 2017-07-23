@@ -23,5 +23,5 @@ $result = $mysqli->query($sql);
 $result =  mysqli_query($mysqli,$sqlTotal);
 
 $data['total'] = mysqli_num_rows($result);
-
+header('Content-Type: application/json');
 echo json_encode($data);

@@ -9,4 +9,4 @@ echo "yes" | composer install --verbose
 cd public
 
 echo "Start the damn server!"
-php -S localhost:9090
+php -S localhost:

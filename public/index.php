@@ -11,7 +11,7 @@
         <link href="//cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/css/toastr.min.css" rel="stylesheet">
 
   <script type="text/javascript">
-       var url = "http://localhost/crud/";
+       var url = "http://localhost:/CRUD-API/";
         </script>
 
         <script src="js/item-ajax.js"></script>

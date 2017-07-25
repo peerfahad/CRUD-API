@@ -89,8 +89,7 @@
             <div class="form-group">
               <button type="submit" class="btn crud-submit btn-success">Submit</button>
             </div>
-
-              </form>
+            </form>
 
           </div>
         </div>

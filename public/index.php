@@ -37,11 +37,11 @@
         <table class="table table-bordered">
           <thead>
               <tr>
-            <th>Name</th>
-            <th>Father Name</th>
-            <th>Email</th>
-            <th>Phone</th>
-            <th>Action</th>
+                <th>Name</th>
+                <th>Father Name</th>
+                <th>Email</th>
+                <th>Phone</th>
+                <th>Action</th>
               </tr>
           </thead>
           <tbody>

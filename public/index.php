@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>PHP Jquery Ajax CRUD Example</title>
+  <title>PHP Jquery Ajax CRUD Example</title>
+
   <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
   <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.0/jquery.js"></script>
   <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0-alpha/js/bootstrap.min.js"></script>
